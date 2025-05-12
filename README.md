@@ -38,8 +38,9 @@ Run Bookbot from the command line and pass the path to a `.txt` file:
 ```bash
 python3 main.py sample_book.txt
 ```
-```
+
 ### Example Output
+```
 ============ BOOKBOT ============
 Analyzing book found at sample_book.txt
 ----------- Word Count ----------
